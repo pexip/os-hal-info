@@ -1,3 +1,9 @@
+hal-info (20091130-1pexip1) pexip; urgency=low
+
+  * Prepare Pexip packaging
+
+ -- John-Mark Bell <jmb@pexip.com>  Tue, 24 Dec 2013 20:52:25 +0000
+
 hal-info (20091130-1) unstable; urgency=low
 
   * New upstream release.
